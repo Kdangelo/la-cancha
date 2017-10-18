@@ -1,0 +1,72 @@
+.pasto{
+	background-color: green;
+	width: 800px;
+	height: 500px;
+	position: absolute;
+}
+.linea{
+	width: 750px;
+	height: 450px;
+	border: 2px solid white;
+	margin-top: 25px;
+	margin-left: 25px;
+	position: relative;
+}
+.areachica1{
+	width: 120px;
+	height: 200px;
+	display: inline-block;
+	border: 2px solid white;
+	top: 130px;
+	margin-left: -2px;
+	position: absolute;
+}
+.areachica2{
+	width: 120px;
+	height: 200px;
+	display: inline-block;
+	border: 2px solid white;
+	top: 130px;
+	margin-left: 628px; 
+	position: absolute;
+}
+.circulo{
+	width: 200px;
+	height: 200px;
+	border: 2px solid white;
+	display: inline-block;
+	border-radius: 100%;
+	margin-left: 274px;
+	margin-top: 130px;
+	position: absolute; 
+}
+.pelota1{
+	width: 20px;
+	height: 20px;
+	border: 2px solid white;
+	display: inline-block;
+	border-radius: 100%;
+	margin-left: 95px;
+	margin-top: 135px;
+	position: absolute;
+}
+.pelota2{
+	width: 20px;
+	height: 20px;
+	border: 2px solid white;
+	display: inline-block;
+	border-radius: 100%;
+	margin-left: 380px;
+	margin-top: 50px;
+	position: absolute;
+}
+.pelota3{
+	width: 20px;
+	height: 20px;
+	border: 2px solid white;
+	display: inline-block;
+	border-radius: 100%;
+	margin-left: 600px;
+	margin-top: 290px;
+	position: absolute;
+}
